@@ -6,7 +6,16 @@ Esta es una copia estática de la página de Tenoal. Incluye la imagen de Ciudad
 
 ## Publicación
 
-GitHub Pages publica la rama `main` desde la raíz del repositorio. Los cambios enviados a esa rama se publican en Pages; los cambios en la página original deben copiarse también a este repositorio.
+La copia está lista en la rama `main`. Para activar GitHub Pages:
+
+1. Abre [Settings → Pages](https://github.com/CommonBannannas/tenoal-landing/settings/pages).
+2. En **Build and deployment**, elige **Deploy from a branch**.
+3. Selecciona **main** y **/ (root)**, y pulsa **Save**.
+4. Espera a que GitHub termine la publicación.
+
+La dirección prevista es <https://commonbannannas.github.io/tenoal-landing/>. Estará disponible cuando la publicación termine.
+
+Una vez activado Pages, los cambios enviados a `main` se publican allí. Los cambios en la página original deben copiarse también a este repositorio.
 
 ## Archivos
 
